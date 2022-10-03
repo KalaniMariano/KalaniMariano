@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KalaniMariano
 - 👀 I’m interested in develope in back-end
-- 🍃 Currently learning python
+- 🍃 Currently learning Python
 - 📫 How to reach me:
 - 📫 email: kalanimariano@gmail.com
