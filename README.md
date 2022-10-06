@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalaniMariano
 - 👀 I’m interested in develope in back-end
-- 🍃 Currently learning Python
+- 🐍 Currently learning Python
 - 📫 How to reach me:
 - 📫 E-mail: kalanimariano@gmail.com
 - 👉 LinkedIn: https://www.linkedin.com/in/kalani-mariano-90b842135/
