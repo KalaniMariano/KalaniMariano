@@ -2,5 +2,5 @@
 - 👀 I’m interested in develope in back-end
 - 🍃 Currently learning Python
 - 📫 How to reach me:
-- 📫 email: kalanimariano@gmail.com
+- 📫 E-mail: kalanimariano@gmail.com
 - 👉 LinkedIn: https://www.linkedin.com/in/kalani-mariano-90b842135/
